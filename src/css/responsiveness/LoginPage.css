@@ -1,0 +1,10 @@
+@media screen and (max-width:500px) {
+    .form-box .input-field{
+        width: 350px;
+    }
+}
+@media screen and (max-width:420px) {
+    .form-box .input-field{
+        width: 300px;
+    }
+}
